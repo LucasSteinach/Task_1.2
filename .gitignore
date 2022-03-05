@@ -1,0 +1,5 @@
+Thimbs.db
+.DS_Store
+tmp/
+*_old
+*_backup
